@@ -396,4 +396,3 @@ print_stage_3(int line_counter, float score){
 }
 
 /*ALGORITHMS ARE FUN!!!!*/
-*.css linguist-language=C
