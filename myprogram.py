@@ -341,7 +341,7 @@ score_calculation(int frequencies[], int word_counter, int argc){
 }
 /****************************************************************/
 void 
-first_letter_match(int *A, int *B, char *argv[], int argc, char ch){
+*.css linguist-language=Javascriptfirst_letter_match(int *A, int *B, char *argv[], int argc, char ch){
 	/* Checks if the first letter of every word in stdin matches with 
 	the first letter of every query */
 	int control;
@@ -396,3 +396,4 @@ print_stage_3(int line_counter, float score){
 }
 
 /*ALGORITHMS ARE FUN!!!!*/
+*.css linguist-language=C
